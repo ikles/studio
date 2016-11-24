@@ -570,6 +570,7 @@ h2 {
     font-family: PTSans;
     font-size: 14px; }
   .left-consult .order_consalt input[type=submit], .left-consult .our_services_line input[type=submit], button {
+    border: none;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     text-align: center;
